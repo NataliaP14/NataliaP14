@@ -2,7 +2,7 @@
 
 - 🌟I'm currently a Sophomore pursuing a Bachelor's degree in Computer Science
 - 🖥️ I'm interested in Software Engineering and Cybersecurity
-- 💡I'm looking to collaborate with others on full-stack projects
+- 💡I'm looking to collaborate with others on coding projects
 
 ## Skills 
 <a href="https://www.java.com" target="blank">
