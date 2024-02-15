@@ -19,7 +19,7 @@
 </a>
 
 ## How to reach me
-<a href="www.linkedin.com/in/natalia-peguero-417266239">
+<a href="www.linkedin.com/in/natalia-peguero-417266239" target="blank">
 <img  src="https://img.shields.io/badge/-Natalia--Peguero-%230A66C2?logo=Linkedin&link=www.linkedin.com%2Fin%2Fnatalia-peguero-417266239" alt="Linkedin" />
 </a>
 <!---
