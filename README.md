@@ -26,7 +26,7 @@ ht[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500
 ## Stats
 <div align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=NataliaP14&theme=midnight-purple&show_icons=true"  alt = "stats" />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=NataliaP14&locale=en&hide_title=false&layout=compact&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height= "200" alt = "toplang"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=NataliaP14&locale=en&hide_title=false&layout=compact&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height= "195" alt = "toplang"/>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=NataliaP14&theme=midnight-purple&hide_border=false&order=3" width = 60%  />  
 </div>
 
