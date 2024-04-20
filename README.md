@@ -25,8 +25,8 @@
 
 ## Stats
 <div align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=NataliaP14&theme=midnight-purple&show_icons=true"  width="51% alt = "stats" />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=NataliaP14&locale=en&hide_title=false&layout=compact&langs_count=5&theme=midnight-purple&hide_border=false&order=2" width = "44%" height = 215 alt = "toplang"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=NataliaP14&theme=midnight-purple&show_icons=true"  alt = "stats" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=NataliaP14&locale=en&hide_title=false&layout=compact&langs_count=5&theme=midnight-purple&hide_border=false&order=2"  alt = "toplang"/>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=NataliaP14&theme=midnight-purple&hide_border=false&order=3" width = 60%  />  
 </div>
 
