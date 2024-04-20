@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=A745FB&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hello!+My+name+is+Natalia+Peguero;Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
+ht[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=A745FB&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hello!+My+name+is+Natalia+Peguero;Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
 <img src="https://komarev.com/ghpvc/?username=NataliaP14&label=VISITORS&color=blueviolet&style=for-the-badge" alt="Profile visitor" align = "right"/>
 <img src = "https://giffiles.alphacoders.com/163/163608.gif" height = 100 width = 100 align = "right" />
 
@@ -26,7 +26,7 @@
 ## Stats
 <div align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=NataliaP14&theme=midnight-purple&show_icons=true"  alt = "stats" />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=NataliaP14&locale=en&hide_title=false&layout=compact&langs_count=5&theme=midnight-purple&hide_border=false&order=2"  alt = "toplang"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=NataliaP14&locale=en&hide_title=false&layout=compact&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height= "200" alt = "toplang"/>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=NataliaP14&theme=midnight-purple&hide_border=false&order=3" width = 60%  />  
 </div>
 
