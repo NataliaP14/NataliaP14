@@ -15,7 +15,7 @@
 <p align = "center" style = "text-decoration: none;">My Codedex Pets from <a href = "https://www.codedex.io/30-nites-of-code">30 Nites Of Code</a></p>
 <div align = center>
 <img src = "https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" width = 90 />
-<img src = "https://www.codedex.io/images/code-nights/baby-neutral-dinosaur.gif" width = 90 />
+<img src = "https://www.codedex.io/images/code-nights/evolved-happy-dinosaur.gif" width = 90 />
 </div>
 <br><br><br><br>
 
