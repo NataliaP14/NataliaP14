@@ -20,7 +20,7 @@
 <br><br><br><br>
 
 ## Tech Stack  
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,react,lua,vscode,eclipse,github,figma,anaconda,vite,firebase" width=700/>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,react,lua,vscode,eclipse,github,figma,anaconda,vite,firebase,mysql" width=700/>
 
 
 ## Stats
