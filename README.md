@@ -5,10 +5,10 @@
 
 ## About me 
 <img src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-5.gif" alt="purpleGif" width= 350 height = 400 align="right" />
-🌟I'm a Sophomore pursuing a Bachelor's degree in Computer Science<br>
-🖥️ I'm interested in Software Engineering, Cybersecurity, and Game Development<br>
+🌟I'm a Junior pursuing a Bachelor's degree in Computer Science<br>
+🖥️ I'm interested in Software Engineering, Cybersecurity, Web Development, and Game Development<br>
 💬 My hobbies: Videogames, Coding, Music, and playing instruments <br>
-🧠 Im currently exploring full stack and game development in python <br>
+🧠 Im currently exploring full stack development <br>
 💡I'm looking to collaborate with others on coding projects<br>
 <br>
 
@@ -34,9 +34,7 @@
 <a href="https://www.linkedin.com/in/natalia-peguero-417266239/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width = 45 />
 </a>
-<a href="https://www.codedex.io/@NataliaP14" target="_blank">
-<img align="center" src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4" width="45" height="40" />
-</a>
+
 <!---
 NataliaP14/NataliaP14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
