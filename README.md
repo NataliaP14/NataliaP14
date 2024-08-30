@@ -6,7 +6,7 @@
 ## About me 
 <img src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-5.gif" alt="purpleGif" width= 350 height = 400 align="right" />
 🌟I'm a Junior pursuing a Bachelor's degree in Computer Science<br>
-🖥️ I'm interested in Software Engineering, Cybersecurity, Web Development, and Game Development<br>
+🖥️ I'm interested in Software Engineering, Cybersecurity, Web Development,<br> and Game Development<br>
 💬 My hobbies: Videogames, Coding, Music, and playing instruments <br>
 🧠 Im currently exploring full stack development <br>
 💡I'm looking to collaborate with others on coding projects<br>
