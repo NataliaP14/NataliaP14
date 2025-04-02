@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=A745FB&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hello!+My+name+is+Natalia+Peguero;Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
 <img src="https://komarev.com/ghpvc/?username=NataliaP14&label=VISITORS&color=blueviolet&style=for-the-badge" alt="Profile visitor" align = "right"/>
-<img src = "https://giffiles.alphacoders.com/163/163608.gif" height = 100 width = 100 align="right"/>
-<br><br><br>
+
+
 
 
 ## About me 
@@ -13,10 +13,8 @@
 💡I'm looking to collaborate with others on coding projects<br>
 <br>
 
-<p align = "center" style = "text-decoration: none;">My Codedex Pets from <a href = "https://www.codedex.io/30-nites-of-code">30 Nites Of Code</a></p>
 <div align = center>
-<img src = "https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" width = 90 />
-<img src = "https://www.codedex.io/images/code-nights/evolved-happy-dinosaur.gif" width = 90 />
+<img src = "https://giffiles.alphacoders.com/163/163608.gif" height = 125 width = 125 />
 </div>
 <br><br><br><br>
 
