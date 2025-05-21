@@ -6,7 +6,7 @@
 
 ## About me 
 <img src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-5.gif" alt="purpleGif" width= 350 height = 400 align="right" />
-🌟I'm a Junior pursuing a Bachelor's degree in Computer Science<br>
+🌟I'm a rising Senior pursuing a Bachelor's degree in Computer Science<br>
 🖥️ I'm interested in Software Engineering, Cybersecurity, Web Development,<br> and Game Development<br>
 💬 My hobbies: Videogames, Coding, Music, and playing instruments <br>
 🧠 Im currently exploring full stack development <br>
@@ -19,7 +19,7 @@
 <br><br><br><br>
 
 ## Tech Stack  
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,react,lua,vscode,eclipse,idea,github,figma,anaconda,vite,firebase,mysql,postgres,spring,linux,androidstudio,linux" width=700/>
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,react,lua,vscode,eclipse,idea,github,figma,anaconda,vite,firebase,mysql,postgres,spring,linux,androidstudio" width=700/>
 
 
 ## Stats
